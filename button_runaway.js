@@ -13,7 +13,7 @@ document.addEventListener("mousemove", runaway);
 
 button.addEventListener("mousedown", () =>{
 	alert("(^^)");
-	table.insertAdjacentHTML('afterend','平沢進、核P-MODELの無料サンプルは<a id="himitsu" rel="noopener noreffer" target="_blank" href = "https://susumuhirasawa.com/free-music/">ここ</a>から</h7>')
+	//table.insertAdjacentHTML('afterend','平沢進、核P-MODELの無料サンプルは<a id="himitsu" rel="noopener noreffer" target="_blank" href = "https://susumuhirasawa.com/free-music/">ここ</a>から</h7>')
 });
 
 res_btn.addEventListener("mousedown",reset);
