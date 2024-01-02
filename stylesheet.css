@@ -46,10 +46,25 @@ nav ul li{
 	border-right: 1px solid #000000;
 
 }
+nav ul li:hover{
+	background-color: #889999;
+
+}
+nav ul li:active{
+	background-color: #778888;
+	border-top: 1px solid #000000;
+	border-left:1px solid #000000;
+	border-bottom: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+
+}
 nav ul li a{
+	color: #eeeeee;
 	-webkit-user-drag: none;
-	color: #000000;
 	text-decoration: none;
+}
+nav ul li a:active{
+	color: #000000;
 }
 nav ul{
 	background-color: #ff00ff;
