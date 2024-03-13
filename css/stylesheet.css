@@ -1,5 +1,11 @@
-.class_iframe{
+html{
 	width:100vw;
+}
+#id_index{
+	overflow: hidden;
+}
+.class_iframe{
+	width: 100%;
 }
 .class_zero_mar{
 	margin:0px;
@@ -36,7 +42,6 @@ header{
 }
 #id_main{
 	height:93vh;
-	width:100vw;
 	margin:0px;
 	padding:0px;
 	
