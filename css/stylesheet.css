@@ -92,6 +92,9 @@ nav{
 	border:0px;
 	padding: 0px;
 }
+article{
+	margin: 20px;
+}
 
 #id_nikki{
 	width: 100%;
